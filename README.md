@@ -38,7 +38,7 @@ The dataset contains three major components
     | ----------- | ----------- |
     | Date_id | INT (FK) |
     | PM2_5 | DOUBLE |
-    | PM10 | INT (FK) |
+    | PM10 | DOUBLE |
 
 ### LINK
 
