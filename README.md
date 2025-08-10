@@ -1,6 +1,6 @@
 # 🌏Delhi Air Quality Analysis – Power BI & SQL Project
 
-## Delhi Air Quality Analysis: Trends, Patterns & Insigh (2021–2024)
+## Delhi Air Quality Analysis: Trends, Patterns & Insights (2021–2024)
 
 ### 📌 Project Overview
 This project analyzes Delhi's Air Quality Index (AQI) and associated pollutant levels from 2021 to 2024 using advanced data analytics and visualization techniques.
