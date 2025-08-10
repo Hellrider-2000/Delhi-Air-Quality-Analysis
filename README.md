@@ -41,7 +41,7 @@ The dataset contains three major components
     | PM2_5 | DOUBLE |
     | PM10 | DOUBLE |
 
-### [Dataset](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Air%20Quality.xlsx)
+### Download the Dataset: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Air%20Quality.xlsx)
 
 ### 🎯 Objectives
 - Monitor and analyze daily pollution levels (PM2.5, PM10, NO2, SO2, CO, Ozone, AQI) across 2021–2024.
