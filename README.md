@@ -162,10 +162,10 @@ The table shows AQI variations by day of the week:
 ## 💾 SQL Queries
 
 1. KPIs Query: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blame/main/KPIs.sql)
-2. Average Pollutant Levels by Month & Year: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20Pollutant%20Levels%20by%20Month%20and%20Year.sql)
-3. Average AQI Based on Holidays, Month: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20AQI%20Based%20on%20Holidays%2C%20Month.sql)
-4. Average AQI per Year: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20AQI%20per%20Year.sql)
-5. Relation Between PM Particles & AQI: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Relation%20Btw%20PM%20%26%20AQI.sql) 
+2. Average Pollutant Levels by Month & Year Query: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20Pollutant%20Levels%20by%20Month%20and%20Year.sql)
+3. Average AQI Based on Holidays, Month Query: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20AQI%20Based%20on%20Holidays%2C%20Month.sql)
+4. Average AQI per Year Query: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20AQI%20per%20Year.sql)
+5. Relation Between PM Particles & AQI Query: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Relation%20Btw%20PM%20%26%20AQI.sql) 
  
 ## 💡 Recommendations
 
