@@ -59,7 +59,7 @@ The dataset contains three major components
 2. Trend Analysis
 
     - Monthly pollutant variations
-    - Yearly AQI averages showing a decline from 2021 to 2023, a slight rebound in 2024.
+    - Yearly AQI averages show a decline from 2021 to 2023, a slight rebound in 2024.
 
 2. Monthly Pollutants & AQI Trends
 
@@ -101,7 +101,8 @@ The dataset contains three major components
 2. Monsoon Dip (July–August):
     - Significant decrease in pollutant levels due to rain and Monsoon cleaning the air.
 
-## pic
+<img width="1150" height="710" alt="Pollutants Level   AQI by Month" src="https://github.com/user-attachments/assets/934ee4c0-ba44-4be0-be72-20fee4819366" />
+
 
 ### Seasonal Trends in AQI
 
