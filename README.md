@@ -8,6 +8,7 @@ This project analyzes Delhi's Air Quality Index (AQI) and associated pollutant l
 The interactive dashboard (built in Power BI) uncovers seasonal trends, pollutant correlations, and health impact patterns — enabling data-driven recommendations for improving air quality.
 
 ## 📷 Dashboard Preview 
+<img width="1277" height="726" alt="Dashboard" src="https://github.com/user-attachments/assets/85c95455-0a6b-4608-9d76-0892706d9631" />
 
 
 ### 📊 Dataset
