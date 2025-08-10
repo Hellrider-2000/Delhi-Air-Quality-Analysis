@@ -161,24 +161,12 @@ The table shows AQI variations by day of the week:
 
 ## 💾 SQL Queries
 
-1. KPIs Query
-   ```
-   -- KPI 1) Average PM10 Level 
-    SELECT 
-	    ROUND(AVG(pollutants_pm.PM10),0) AS AVG_PM10
-    FROM pollutants_pm;    
-
-    -- KPI 2) Average PM2.5 level
-    SELECT 
-	    ROUND(AVG(pollutants_pm.pm2_5),0) AS AVG_PM2_5
-    FROM pollutants_pm; 
-
-    -- KPI 3) Average AQI Level
-    SELECT 
-	    ROUND(AVG(pollutants_gas.AQI),0) AS AVG_AQI
-    FROM pollutants_gas;
-   
-
+1. KPIs Query: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blame/main/KPIs.sql)
+2. Average Pollutant Levels by Month & Year: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20Pollutant%20Levels%20by%20Month%20and%20Year.sql)
+3. Average AQI Based on Holidays, Month: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20AQI%20Based%20on%20Holidays%2C%20Month.sql)
+4. Average AQI per Year: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Average%20AQI%20per%20Year.sql)
+5. Relation Between PM Particles & AQI: [here](https://github.com/Hellrider-2000/Delhi-Air-Quality-Analysis/blob/main/Relation%20Btw%20PM%20%26%20AQI.sql) 
+ 
 ## 💡 Recommendations
 
 Targeted Policy Interventions
@@ -194,21 +182,20 @@ Long-term Strategies
 - Expand green cover in urban areas.
 - Invest in industrial emission monitoring.
 
-## 🛠 Tech Stack
-- Data Visualization: Power BI
-- Data Processing: Excel / SQL
-- Data Source: Air Quality Monitoring Data (2021–2024)
-
-
 ## 📌 Applications
 - Government Policy: Plan air quality interventions.
 - Public Awareness: Inform citizens of pollution trends.
 - Academic Research: Support environmental studies and urban planning.
 
 
+## 🛠 Tech Stack
+- Data Visualization: Power BI
+- Data Processing: Excel / SQL
+- Data Source: Air Quality Monitoring Data (2021–2024)
+
 
 ## 🚀 How to Explore
 1. Clone/download this repository.
-2. Open Delhi_Air_Quality.pbix in Power BI Desktop.
+2. Open pbix file in Power BI Desktop.
 3. Use slicers to filter by year.
 4. Run SQL queries on the dataset to reproduce the backend calculations.
