@@ -118,7 +118,8 @@ The dataset contains three major components
 
 2. **Quarter 3 (July-September)**: This quarter has the best air quality, with an average non-holiday AQI of 85. This is when the monsoon and post-monsoon weather help to clear the air.
 
-## pic
+<img width="1188" height="754" alt="Average AQI Based on Holiday, Month  Quater" src="https://github.com/user-attachments/assets/8f83a419-a2dc-4df3-a1f7-e025e412972f" />
+
 
 
 ### Yearly Trends in AQI
@@ -134,7 +135,8 @@ AQI shows a slight improvement:
 
 While the trend is positive, pollution levels remain severely above safe standards.
 
-## pic
+## <img width="1036" height="530" alt="Average AQI by Year" src="https://github.com/user-attachments/assets/08295483-cd40-4c08-b518-f654c2dac1ef" />
+
 
 
 ### Weekly Patterns in AQI
