@@ -101,7 +101,8 @@ The dataset contains three major components
 2. Monsoon Dip (July–August):
     - Significant decrease in pollutant levels due to rain and Monsoon cleaning the air.
 
-<img width="1150" height="710" alt="Pollutants Level   AQI by Month" src="https://github.com/user-attachments/assets/934ee4c0-ba44-4be0-be72-20fee4819366" />
+<img width="1095" height="710" alt="Pollutants Level by Month" src="https://github.com/user-attachments/assets/d5fa08f6-9188-41da-9391-f5b842d0601f" />
+
 
 
 ### Seasonal Trends in AQI
