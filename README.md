@@ -148,13 +148,16 @@ The table shows AQI variations by day of the week:
 
 - Lowest AQI: Monday (198.16) — marginally better, likely due to reduced weekend carryover.
 
+<img width="563" height="313" alt="Based on Day of Week" src="https://github.com/user-attachments/assets/2cda1f1a-06cd-4be1-9e25-9a6a89304785" />
+
 
 ### Pollutant Correlation
 - PM2.5 and AQI scatterplot shows a strong positive correlation — as PM2.5 increases, AQI rises almost linearly.
 
 - PM10 and AQI correlation is also high, indicating that particulate matter is the main driver of poor air quality in Delhi.
 
-### pic
+<img width="841" height="324" alt="Coorelation Graph" src="https://github.com/user-attachments/assets/95c348fe-e99e-49c5-b37e-639874a82a6d" />
+
 
 ## 💾 SQL Queries
 
